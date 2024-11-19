@@ -1,4 +1,4 @@
-# Digital Business Card
+# Digital Card
 
 A modern, responsive digital business card to showcase professional contact details. It includes a profile picture, personal information, social media links, and an interactive "Copy Email" functionality with a toast notification.
 
