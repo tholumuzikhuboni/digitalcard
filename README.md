@@ -19,4 +19,4 @@ View the live demo: [card.tholumuzi.co.za](https://card.tholumuzi.co.za)
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tholumuzikhuboni)digitalcard.git
+   git clone https://github.com/tholumuzikhuboni/digitalcard.git
